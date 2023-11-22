@@ -18,9 +18,9 @@
 
 </div>
 
-🍁 I'm a Front-End Developer based in Vancouver, BC
+🍁 I'm a Front-End Developer based in Burlington, Vt
 
-📘 Currently in Module 4 of Turing School's Front-End Engineering Program
+📘 Currently in Module 3 of Turing School's Front-End Engineering Program
 
 🏔 In my free time I enjoy spending my time outdoors, paddleboarding, hiking, trying new foods and learning how to make my favorites!
 
