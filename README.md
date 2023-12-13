@@ -18,7 +18,7 @@
 
 </div>
 
-🍁 I'm a Front-End Developer based in Burlington, Vt
+🍁 I'm a Front-End Developer based in Burlington, VT
 
 📘 Currently in Module 3 of Turing School's Front-End Engineering Program
 
