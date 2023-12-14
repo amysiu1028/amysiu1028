@@ -20,11 +20,11 @@
 
 🍁 I'm a Front-End Developer based in Burlington, VT
 
-📘 Currently in Module 3 of Turing School's Front-End Engineering Program
+📘 Currently at Turing School Of Software & Design where I collaborate with other developers in creating projects and contributing to open-source projects.
 
 🏔 In my free time I enjoy spending my time outdoors, paddleboarding, hiking, trying new foods and learning how to make my favorites!
 
-🧘🏻‍♀️ Currently working on: Learning React
+🧘🏻‍♀️ Currently working on: Express.js, PostgreSQL
 
 <br>
 
