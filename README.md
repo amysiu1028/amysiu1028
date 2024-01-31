@@ -24,7 +24,8 @@
 
 🏔 In my free time I enjoy spending my time outdoors, paddleboarding, hiking, trying new foods and learning how to make my favorites!
 
-🧘🏻‍♀️ Currently working on: Express.js, PostgreSQL
+🧘🏻‍♀️ Currently working on: Angular, Tailwind, Circle CI, Webscraping, Rails
+Recently completed projects on: Express.js, knex.js, PostgreSQL
 
 <br>
 
