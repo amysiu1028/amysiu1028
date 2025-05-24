@@ -27,6 +27,30 @@
 🧘🏻‍♀️ Currently working on: Angular, Tailwind, Circle CI, Webscraping, Rails
 Recently completed projects on: Express.js, knex.js, PostgreSQL
 
+Project highlights:
+NaturEscape Project | ~50 hours 
+Tech Stack: HTML5, CSS3, SCSS, Lottie Web, Visual Studio Code, GitHub, NPM, Vercel, Cypress
+- NaturEscape is a self-designed solo project, featuring an application for users to explore parks and historic sites. Users can click to view more details about each location. 
+- The application is responsive and optimized for various screens, including iPads, phones, and laptops.
+- It incorporates tabindex to enhance the user interface. Utilizing front-end technologies like React, React Router, and SCSS, NaturEscape showcases my self-motivation and dedication to creating a user-friendly web application centered around nature and history.
+
+Rancid Tomatillos Project, Group Project | ~50 hours 
+Tech Stack: HTML5, CSS3, React, Visual Studio Code, GitHub, NPM, Cypress, React Router
+- Designed a web application akin to Rotten Tomatoes that allows users to browse through a curated collection of movies, view detailed information about each movie, watch trailers or clips, and access reviews.
+- Sourced data using fetch calls to an external API
+- Implement useState, useEffect, cypress testing, responsive design, and both GET and POST fetch requests.
+
+Ventures, Solo Project | 30 hours | Repo 	  
+Tech Stack: JavaScript, CSS, HTML, Mocha/Chai, NPM, Webpack, js-datepicker
+- Developed an app for travelers to track their past, upcoming, and pending trips, booked through a travel agency.
+- User data is sourced using fetch calls to an API running on a local server
+- Includes implementation code, unit tests, DOM updates, and both GET and POST fetch requests
+
+FitLit, Group project | 80 hours 
+Tech Stack: JavaScript, CSS, HTML, Mocha/Chai, NPM, Webpack, js-datepicker, interact js  
+- Created an application to help users see their fitness and health data, goals, and milestones.
+- Focused on javascript, accessibility, APIs, and pioneered interact.js for user UI rearrangement.
+  
 <br>
 
 <div id="footer" align="center">
